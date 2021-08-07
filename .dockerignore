@@ -1,0 +1,5 @@
+env
+.dockerignore
+.python-version
+Dockerfile
+Dockerfile.prod
